@@ -1,4 +1,6 @@
-## INFO:
+## INFO
+
+Português-Brasil:
 
 Blog:
 [https://jaderlink.blogspot.com/](https://jaderlink.blogspot.com/)
@@ -9,7 +11,7 @@ Github:
 Youtube:
 [https://www.youtube.com/@JADERLINK](https://www.youtube.com/@JADERLINK)
 
-Contato: 
+Contact: 
 [jaderlinkproject@gmail.com](mailto:jaderlinkproject@gmail.com)
 
 
