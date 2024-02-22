@@ -1,16 +1,16 @@
 ## INFO:
 
 Blog:
-https://jaderlink.blogspot.com/
+[https://jaderlink.blogspot.com/](https://jaderlink.blogspot.com/)
  
 Github:
-https://github.com/JADERLINK
+[https://github.com/JADERLINK](https://github.com/JADERLINK)
  
 Youtube:
-https://www.youtube.com/@JADERLINK
+[https://www.youtube.com/@JADERLINK](https://www.youtube.com/@JADERLINK)
 
 Contato: 
-jaderlinkproject@gmail.com
+[jaderlinkproject@gmail.com](mailto:jaderlinkproject@gmail.com)
 
 
 ## RE4 TOOLS
