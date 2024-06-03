@@ -45,6 +45,10 @@ Contact:
 
 [RE4-UHD-SCENARIO-SMD-TOOL](https://github.com/JADERLINK/RE4-UHD-SCENARIO-SMD-TOOL)
 
+[RE4-ETM-TOOL](https://github.com/JADERLINK/RE4-ETM-TOOL)
+
+[RE4-ITM-TOOL](https://github.com/JADERLINK/RE4-ITM-TOOL)
+
 @Ultima Atualização:
-<br>**2024-04-14**
+<br>**2024-06-03**
 
