@@ -49,6 +49,10 @@ Contact:
 
 [RE4-ITM-TOOL](https://github.com/JADERLINK/RE4-ITM-TOOL)
 
+[RE4-2007-GCA-TOOL](https://github.com/JADERLINK/RE4-2007-GCA-TOOL)
+
+[DATUDAS_IDX_STANDARDIZE](https://github.com/JADERLINK/DATUDAS_IDX_STANDARDIZE)
+
 @Ultima Atualização:
-<br>**2024-06-03**
+<br>**2024-06-12**
 
