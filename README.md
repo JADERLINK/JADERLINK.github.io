@@ -2,6 +2,9 @@
 
 Português-Brasil:
 
+Donate:
+[https://jaderlink.github.io/Donate/](https://jaderlink.github.io/Donate/)
+
 Blog:
 [https://jaderlink.blogspot.com/](https://jaderlink.blogspot.com/)
  
@@ -17,17 +20,13 @@ Contact:
 
 ## RE4 TOOLS
 
-[Re4QuadExtremeEditor](https://github.com/JADERLINK/Re4QuadExtremeEditor)
+[Re4QuadExtremeEditor [NewAge]](https://github.com/JADERLINK/Re4QuadNewAge)
 
 [JADERLINK_MODEL_VIEWER](https://github.com/JADERLINK/JADERLINK_MODEL_VIEWER)
 
 [JADERLINK_DATUDAS_TOOL](https://github.com/JADERLINK/JADERLINK_DATUDAS_TOOL)
 
-[RE4-RTP-TOOL](https://github.com/JADERLINK/RE4-RTP-TOOL)
-
-[RE4-SMX-TOOL](https://github.com/JADERLINK/RE4-SMX-TOOL)
-
-[RE4-SAT-EAT-TOOL](https://github.com/JADERLINK/RE4-SAT-EAT-TOOL)
+[DATUDAS_IDX_STANDARDIZE](https://github.com/JADERLINK/DATUDAS_IDX_STANDARDIZE)
 
 [RE4-PS2-TPL-TOOL](https://github.com/JADERLINK/RE4-PS2-TPL-TOOL)
 
@@ -39,20 +38,25 @@ Contact:
 
 [RE4-2007-PMD-TOOL](https://github.com/JADERLINK/RE4-2007-PMD-TOOL)
 
+[RE4-2007-GCA-TOOL](https://github.com/JADERLINK/RE4-2007-GCA-TOOL)
+
 [RE4-UHD-PACKYZ2-TOOL](https://github.com/JADERLINK/RE4-UHD-PACKYZ2-TOOL)
 
 [RE4-UHD-BIN-TOOL](https://github.com/JADERLINK/RE4-UHD-BIN-TOOL)
 
 [RE4-UHD-SCENARIO-SMD-TOOL](https://github.com/JADERLINK/RE4-UHD-SCENARIO-SMD-TOOL)
 
+[RE4-RTP-TOOL](https://github.com/JADERLINK/RE4-RTP-TOOL)
+
+[RE4-SMX-TOOL](https://github.com/JADERLINK/RE4-SMX-TOOL)
+
+[RE4-SAT-EAT-TOOL](https://github.com/JADERLINK/RE4-SAT-EAT-TOOL)
+
 [RE4-ETM-TOOL](https://github.com/JADERLINK/RE4-ETM-TOOL)
 
 [RE4-ITM-TOOL](https://github.com/JADERLINK/RE4-ITM-TOOL)
 
-[RE4-2007-GCA-TOOL](https://github.com/JADERLINK/RE4-2007-GCA-TOOL)
-
-[DATUDAS_IDX_STANDARDIZE](https://github.com/JADERLINK/DATUDAS_IDX_STANDARDIZE)
+[RE4-CNS-TOOL](https://github.com/JADERLINK/RE4-CNS-TOOL)
 
 @Ultima Atualização:
-<br>**2024-06-12**
-
+<br>**2024-07-10**
