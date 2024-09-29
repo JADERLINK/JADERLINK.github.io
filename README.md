@@ -58,5 +58,21 @@ Contact:
 
 [RE4-CNS-TOOL](https://github.com/JADERLINK/RE4-CNS-TOOL)
 
+[RE4-FIX-TOOL](https://github.com/JADERLINK/RE4-FIX-TOOL)
+
+[RE4_EFF_SPLIT_TOOL](https://github.com/JADERLINK/RE4_EFF_SPLIT_TOOL)
+
+[RE4_EFF_BLOB_RUST](https://github.com/JADERLINK/RE4_EFF_BLOB_RUST)
+
+[RE4-PS4NS-PACK-TOOL](https://github.com/JADERLINK/RE4-PS4NS-PACK-TOOL)
+
+### Tools de outros autores:
+
+[RE4-PS4NS-FEN-TOOL](https://jaderlink.blogspot.com/2024/08/re4-ps4ns-fen-tool.html)
+
+[LFS-TOOL](https://www.youtube.com/watch?v=bR2hZhttQcs)
+
+[AFS e ISO TOOL (PS2)](https://www.youtube.com/watch?v=M9jEyAG_u_k)
+
 @Ultima Atualização:
-<br>**2024-07-10**
+<br>**2024-09-29**
