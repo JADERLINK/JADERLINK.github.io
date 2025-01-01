@@ -40,6 +40,8 @@ Contact:
 
 [RE4-2007-GCA-TOOL](https://github.com/JADERLINK/RE4-2007-GCA-TOOL)
 
+[RE4_2007_ARGB_TOOL](https://github.com/JADERLINK/RE4_2007_ARGB_TOOL)
+
 [RE4-UHD-PACKYZ2-TOOL](https://github.com/JADERLINK/RE4-UHD-PACKYZ2-TOOL)
 
 [RE4-UHD-BIN-TOOL](https://github.com/JADERLINK/RE4-UHD-BIN-TOOL)
@@ -60,6 +62,8 @@ Contact:
 
 [RE4_EVD_TOOL](https://github.com/JADERLINK/RE4_EVD_TOOL)
 
+[RE4-TEX-TOOL](https://github.com/JADERLINK/RE4_TEX_TOOL)
+
 [RE4-FIX-TOOL](https://github.com/JADERLINK/RE4-FIX-TOOL)
 
 [RE4_EFF_SPLIT_TOOL](https://github.com/JADERLINK/RE4_EFF_SPLIT_TOOL)
@@ -69,6 +73,8 @@ Contact:
 [RE4-PS4NS-PACK-TOOL](https://github.com/JADERLINK/RE4-PS4NS-PACK-TOOL)
 
 [RE4-X360-PACK-TOOL](https://github.com/JADERLINK/RE4-X360-PACK-TOOL)
+
+[RE4-DCT-TOOL](https://github.com/JADERLINK/RE4-DCT-TOOL)
 
 ### Tools de outros autores:
 
@@ -85,4 +91,4 @@ Contact:
 [VariantImageViewer](https://github.com/JADERLINK/VariantImageViewer)
 
 @Ultima Atualização:
-<br>**2024-12-27**
+<br>**2025-01-01**
