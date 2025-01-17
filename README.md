@@ -76,6 +76,10 @@ Contact:
 
 [RE4-DCT-TOOL](https://github.com/JADERLINK/RE4-DCT-TOOL)
 
+[RE4-FNT-TOOL](https://github.com/JADERLINK/RE4-FNT-TOOL)
+
+[RE4-MDT-TOOL](https://github.com/JADERLINK/RE4-MDT-TOOL)
+
 ### Tools de outros autores:
 
 [RE4-PS4NS-FEN-TOOL](https://jaderlink.blogspot.com/2024/08/re4-ps4ns-fen-tool.html)
@@ -91,4 +95,4 @@ Contact:
 [VariantImageViewer](https://github.com/JADERLINK/VariantImageViewer)
 
 @Ultima Atualização:
-<br>**2025-01-01**
+<br>**2025-01-17**
