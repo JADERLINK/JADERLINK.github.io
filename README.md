@@ -44,7 +44,7 @@ Contact:
 
 [RE4_2007_ARGB_TOOL](https://github.com/JADERLINK/RE4_2007_ARGB_TOOL)
 
-[RE4-UHD-PACKYZ2-TOOL](https://github.com/JADERLINK/RE4-UHD-PACKYZ2-TOOL)
+[RE4-UHD-PACK-TOOL](https://github.com/JADERLINK/RE4-UHD-PACK-TOOL)
 
 [RE4-UHD-BIN-TOOL](https://github.com/JADERLINK/RE4-UHD-BIN-TOOL)
 
@@ -74,15 +74,15 @@ Contact:
 
 [RE4-PS4NS-PACK-TOOL](https://github.com/JADERLINK/RE4-PS4NS-PACK-TOOL)
 
-[RE4-X360-PACK-TOOL](https://github.com/JADERLINK/RE4-X360-PACK-TOOL)
+[RE4-PS3X360-PACK-TOOL](https://github.com/JADERLINK/RE4-PS3X360-PACK-TOOL)
+
+[RE4-PS3-LFS.CRC-TOOLS](https://github.com/JADERLINK/RE4-PS3-LFS.CRC-TOOLS)
 
 [RE4-DCT-TOOL](https://github.com/JADERLINK/RE4-DCT-TOOL)
 
 [RE4-FNT-TOOL](https://github.com/JADERLINK/RE4-FNT-TOOL)
 
 [RE4-MDT-TOOL](https://github.com/JADERLINK/RE4-MDT-TOOL)
-
-[RE4-PS3-LFS.CRC-TOOLS](https://github.com/JADERLINK/RE4-PS3-LFS.CRC-TOOLS)
 
 ### Tools from other authors:
 
@@ -99,4 +99,4 @@ Contact:
 [VariantImageViewer](https://github.com/JADERLINK/VariantImageViewer)
 
 **@Last Updated:**
-<br>**2025-01-31**
+<br>**2025-02-02**
