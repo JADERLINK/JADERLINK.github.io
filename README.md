@@ -19,6 +19,8 @@ Youtube:
 Contact: 
 [jaderlinkproject@gmail.com](mailto:jaderlinkproject@gmail.com)
 
+RE4 HUB:
+[https://github.com/JADERLINK/RE4HUB](https://github.com/JADERLINK/RE4HUB)
 
 ## RE4 TOOLS
 
@@ -27,6 +29,8 @@ Contact:
 [JADERLINK_MODEL_VIEWER](https://github.com/JADERLINK/JADERLINK_MODEL_VIEWER)
 
 [JADERLINK_DATUDAS_TOOL](https://github.com/JADERLINK/JADERLINK_DATUDAS_TOOL)
+
+[JADERLINK_DATDRS_TOOL](https://github.com/JADERLINK/JADERLINK_DATDRS_TOOL)
 
 [DATUDAS_IDX_STANDARDIZE](https://github.com/JADERLINK/DATUDAS_IDX_STANDARDIZE)
 
@@ -84,6 +88,8 @@ Contact:
 
 [RE4-MDT-TOOL](https://github.com/JADERLINK/RE4-MDT-TOOL)
 
+[SMD_BONE_TOOLS](https://github.com/JADERLINK/SMD_BONE_TOOLS)
+
 ### Tools from other authors:
 
 [RE4-PS4NS-FEN-TOOL](https://jaderlink.blogspot.com/2024/08/re4-ps4ns-fen-tool.html)
@@ -99,4 +105,4 @@ Contact:
 [VariantImageViewer](https://github.com/JADERLINK/VariantImageViewer)
 
 **@Last Updated:**
-<br>**2025-02-02**
+<br>**2025-02-22**
